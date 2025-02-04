@@ -128,7 +128,7 @@ public class NeuralNetwork implements Serializable {
 			 * dotNumber should vary based on the size of the data set;
 			 * Never set dotNumber greater than numberBatches
 			 */
-			int dotNumber = 30;
+			int dotNumber = 10;
 			
 			int printDot = numberBatches/dotNumber;
 			if (trainingMode && index ++ % printDot == 0) {

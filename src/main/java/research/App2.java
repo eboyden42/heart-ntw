@@ -39,8 +39,6 @@ public class App2 {
 		int inputSize = metaData.getInputSize();
 		int outputSize = metaData.getExpectedSize();
 		trainLoader.close();
-		
-		
 				
 		NeuralNetwork neuralNetwork = NeuralNetwork.load(filename);
 				
