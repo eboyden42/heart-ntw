@@ -40,7 +40,7 @@ https://www.udemy.com/course/neural-network-java
 
 1) Clone the repository and navigate to src/main/java/research/HeartPredictionApp.java.
 2) Run the app and follow directions in the terminal to either create a new network or use an existing one. New networks
-   will automatically train and then generate images and predictions.
+   will automatically train and then generate analysis data.
 
 ## Issues
 
